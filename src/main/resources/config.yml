@@ -1,0 +1,19 @@
+permissao:
+  give: "permissao.givar"
+
+areia:
+  name: "&eAreia &e&linfinita"
+  lore:
+    - "&7Coloque este bloco"
+    - "&7em seu terreno para"
+    - "&7plantar cactos"
+
+terra:
+  name: "&aTerra arada &a&linfinita"
+  lore:
+    - "&7Coloque este bloco"
+    - "&7em seu terreno para"
+    - "&7plantar cactos"
+
+mensagens:
+  noperm: ""

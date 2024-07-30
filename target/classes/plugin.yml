@@ -1,5 +1,0 @@
-name: LkAddons
-version: '1.0'
-main: br.com.lkplugins.LkAddons
-commands:
-  addon:
